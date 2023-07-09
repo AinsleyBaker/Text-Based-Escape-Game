@@ -1,0 +1,21 @@
+{
+    "rooms": {
+      "central": {
+        "description": "You are in the main area of the library, where there is a door to the east and an open path to the north.",
+        "items": ["table", "stool"]
+      },
+      "janitor": {
+        "description": "You are in the janitors room, the light bulb is very dim and the area is small.",
+        "items": ["mop", "crowbar"]
+      },
+      "computer": {
+        "description": "You are in the computer lab of the library, this is the best place to do online research.",
+        "items": ["computer"]
+      },
+      "reading": {
+        "description": "You are in the reading room, where there is a door to both your East and West.",
+        "items": ["bookshelf"]
+      }
+    }
+  }
+  

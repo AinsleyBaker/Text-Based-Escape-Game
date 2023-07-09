@@ -1,0 +1,54 @@
+1
+Hello and welcome to The Library!
+Controls:
+move (North, South, East, West)
+get (object)
+use (object)
+drop (object)
+look at (object)
+inv or inventory
+quit
+
+You went to study at the library but ended up falling asleep shortly after.
+You awake it is night and the library is empty.
+After looking around, you find the doors are locked and the windows are too high to reach.
+You must venture the library and find a way to escape!
+2
+As you look closely at the bookshelf, one particular book catches your attention. Its title reads 'Clean and Clear'.
+3
+You look closely at the table and see a USB drive placed on top.
+4
+You turn on the computer and log in.
+5
+Find a computer to insert usb drive.
+6
+You insert the usb drive into the computer and see the following: The top shelf holds your escape!
+7
+You must login to the computer first.
+8
+You open the book and read the first page, you see the following: This is a book dedicated to cleaning and maintaining a well-kept space.
+9
+You stand on top of the stool and look around. On the top shelf you spot a key!
+10
+You bump your head on the projector and fall off the stool.
+11
+You stand on top of the stool and try to reach for a window but still can't get a hold.
+12
+You stand on top of the stool
+13
+You successfully unlocked the door!
+14
+There is no door to unlock in this room.
+15
+Using the crowbar, you pry open the door to the west!
+16
+Crowbar can not be used in this area.
+17
+You use the mop, making the floor nice and clean.
+18
+The door is stuck, maybe there's a way to pry it open?
+19
+The door is locked.
+20
+
+
